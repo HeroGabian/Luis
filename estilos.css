@@ -139,3 +139,6 @@ a {
 .imagenes :only-child {
 height: 350px ;
 }
+.greeting {
+  text-align: center;
+}
